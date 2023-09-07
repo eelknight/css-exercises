@@ -1,0 +1,16 @@
+.odds{
+    background-color: #ffc0cb;
+    font-family:Verdana, DeJaVu Sans, sans-serif ;
+}
+#first-even{
+    color: #0000ff;
+    font-size: 36px;
+}
+.odds.larger{
+    font-size: 24px;
+}
+#second-even{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
